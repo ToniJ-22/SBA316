@@ -1,0 +1,2 @@
+## description
+Health is wealth is a application that allows users to track and acheive their daily goals while getting paid ! Users are able to cash out currency weekly to keep them comitted to their health goals. The more you acheive your goals , the more money you make 
